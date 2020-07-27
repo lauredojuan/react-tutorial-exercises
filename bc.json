@@ -57,7 +57,7 @@
         {
             "slug": "01.2-hello-jsx",
             "title": "01.2-hello-jsx",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-hello-jsx",
             "translations": [
                 "es",
