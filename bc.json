@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://eb7bd41c-004d-4f92-9801-c56abcaf6453.ws-us02.gitpod.io",
+    "address": "https://ac396218-27ff-43a8-ab57-6739ae76a5c1.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -233,7 +233,7 @@
         {
             "slug": "05-adding-styles",
             "title": "05-adding-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05-adding-styles",
             "translations": [
                 "es",
@@ -244,7 +244,7 @@
         {
             "slug": "05.1-second-styles",
             "title": "05.1-second-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-second-styles",
             "translations": [
                 "es",
@@ -255,7 +255,7 @@
         {
             "slug": "06-listening-to-events",
             "title": "06-listening-to-events",
-            "done": false,
+            "done": true,
             "path": "exercises/06-listening-to-events",
             "translations": [
                 "es",
